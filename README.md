@@ -1,2 +1,2 @@
 # Yacc_sublime
-A modification of OCamlYacc to better work with Bison
+A modification of Better OCamlYacc to better work with Bison
